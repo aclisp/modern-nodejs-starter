@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@types/node": "18.19.67",
+    "@types/node": "18.19.68",
     "esbuild": "0.24.0",
     "typescript": "^5.7.2"
   }
